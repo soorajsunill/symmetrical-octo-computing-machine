@@ -65,13 +65,7 @@ function Home() {
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >
-              <img
-                src="https://github.com/mdo.png"
-                alt="mdo"
-                width="32"
-                height="32"
-                className="rounded-circle"
-              />
+              
             </a>
             <ul className="dropdown-menu text-small">
               <li>
